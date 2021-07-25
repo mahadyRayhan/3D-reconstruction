@@ -137,131 +137,131 @@ for fname in images:
 ```
 
 
-![png](output_31_0.png)
+![png](./doc_image/output_31_0.png)
 
 
 
-![png](output_31_1.png)
+![png](./doc_image/output_31_1.png)
 
 
 
-![png](output_31_2.png)
+![png](./doc_image/output_31_2.png)
 
 
 
-![png](output_31_3.png)
+![png](./doc_image/output_31_3.png)
 
 
 
-![png](output_31_4.png)
+![png](./doc_image/output_31_4.png)
 
 
 
-![png](output_31_5.png)
+![png](./doc_image/output_31_5.png)
 
 
 
-![png](output_31_6.png)
+![png](./doc_image/output_31_6.png)
 
 
 
-![png](output_31_7.png)
+![png](./doc_image/output_31_7.png)
 
 
 
-![png](output_31_8.png)
+![png](./doc_image/output_31_8.png)
 
 
 
-![png](output_31_9.png)
+![png](./doc_image/output_31_9.png)
 
 
 
-![png](output_31_10.png)
+![png](./doc_image/output_31_10.png)
 
 
 
-![png](output_31_11.png)
+![png](./doc_image/output_31_11.png)
 
 
 
-![png](output_31_12.png)
+![png](./doc_image/output_31_12.png)
 
 
 
-![png](output_31_13.png)
+![png](./doc_image/output_31_13.png)
 
 
 
-![png](output_31_14.png)
+![png](./doc_image/output_31_14.png)
 
 
 
-![png](output_31_15.png)
+![png](./doc_image/output_31_15.png)
 
 
 
-![png](output_31_16.png)
+![png](./doc_image/output_31_16.png)
 
 
 
-![png](output_31_17.png)
+![png](./doc_image/output_31_17.png)
 
 
 
-![png](output_31_18.png)
+![png](./doc_image/output_31_18.png)
 
 
 
-![png](output_31_19.png)
+![png](./doc_image/output_31_19.png)
 
 
 
-![png](output_31_20.png)
+![png](./doc_image/output_31_20.png)
 
 
 
-![png](output_31_21.png)
+![png](./doc_image/output_31_21.png)
 
 
 
-![png](output_31_22.png)
+![png](./doc_image/output_31_22.png)
 
 
 
-![png](output_31_23.png)
+![png](./doc_image/output_31_23.png)
 
 
 
-![png](output_31_24.png)
+![png](./doc_image/output_31_24.png)
 
 
 
-![png](output_31_25.png)
+![png](./doc_image/output_31_25.png)
 
 
 
-![png](output_31_26.png)
+![png](./doc_image/output_31_26.png)
 
 
 
-![png](output_31_27.png)
+![png](./doc_image/output_31_27.png)
 
 
 
-![png](output_31_28.png)
+![png](./doc_image/output_31_28.png)
 
 
 
-![png](output_31_29.png)
+![png](./doc_image/output_31_29.png)
 
 
 
-![png](output_31_30.png)
+![png](./doc_image/output_31_30.png)
 
 
 
-![png](output_31_31.png)
+![png](./doc_image/output_31_31.png)
 
 
 #### Calibrate Camera
@@ -552,7 +552,7 @@ plt.show()
     
 
 
-![png](output_56_1.png)
+![png](./doc_image/output_56_1.png)
 
 
 In the beginning, we said that lighter shades of gray will signify objects close to the camera lens with progressively darker shades to distinguish objects further away.
@@ -586,7 +586,7 @@ plt.show()
 ```
 
 
-![png](output_59_0.png)
+![png](./doc_image/output_59_0.png)
 
 
 The output is not perfect but we can see that the objects which are comparatively close to the camera are marked as lite-gray (white) and objects that are far from the camera are marked as dark-gray (black).
@@ -709,7 +709,7 @@ plt.show()
 ```
 
 
-![png](output_68_0.png)
+![png](./doc_image/output_68_0.png)
 
 
 ### Resourses
