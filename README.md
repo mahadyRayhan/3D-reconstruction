@@ -9,7 +9,7 @@ It is normally represented like a grayscale picture where lighter shades of gray
 The main steps needed to recreate your surrounding world in 3D are:
 
 - Camera calibration
-- Undistort images
+- Undistort image
 - Feature matching
 - Build point cloud
 - Build mesh to get an actual 3D model
