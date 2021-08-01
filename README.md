@@ -1,5 +1,23 @@
 ##  3D reconstruction
 
+### What is 3D reconstruction?
+> In computer vision and computer graphics, 3D reconstruction is the process of capturing the shape and appearance of real objects.
+
+### Whe it is needed?
+The task of generating fast and accurate 3D image reconstruction has found its application in the field of computer vision like 
+- 	robotics/industrial automation (if you like to move objects using a robotics arm)
+- 	entertainment
+- 	reverse engineering
+- 	augmented reality
+- 	human computer interaction and 
+- 	animation
+
+In robotics/industrial automation 6D pose estimation is a very important task nowadays. According to some recent papers like **"FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation"** or **"FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism"** depth maps are used as inputs for these papers, which improves the model performance.
+
+In this article, you will learn how can we generate depth maps from stereo images, and later you can use this depth map as an input to these papers.
+
+<hr>
+
 To recreate our surrounding world in 3D from 2D images, the main thing we need is an actual depth map.
 
 A depth map is a picture where every pixel has depth information (instead of color information).
